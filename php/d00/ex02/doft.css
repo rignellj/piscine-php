@@ -1,0 +1,24 @@
+body			{background-color:rgb(80, 80, 80)}
+#top			{margin: auto;
+				margin-top: 0.8%;
+				width: 73%;
+				padding: 17px;
+				border-radius: 9px;
+				background-color: rgb(144, 144, 144);
+				box-shadow: 8px 8px 8px black;}
+#day_of_the_42	{max-width: 30%;}
+#magnifier		{float: right;
+				padding-right: 8px;
+				margin-top: -9%;
+				width: 21%;
+				height: auto;}
+#reload			{float: right;
+				margin-right: -3px;
+				margin-top: -3px;
+				width: 1.5%;
+				height: auto;}
+#exit			{float: right;
+				margin-right: -7px;
+				margin-top: -5px;
+				width: 1.5%;
+				height: auto;}
